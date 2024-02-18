@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS test_again (
+  id SERIAL PRIMARY KEY
+);
